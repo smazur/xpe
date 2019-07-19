@@ -1,0 +1,21 @@
+{
+    "name": "smazur/xpe",
+    "description": "Extensible Parsing Engine",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislav Mazur",
+            "email": "mazur.stas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"smazur\\xpe": "src/"
+		}
+	}
+}
