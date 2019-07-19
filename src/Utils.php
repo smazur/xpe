@@ -1,5 +1,5 @@
 <?php
-namespace smazur/xpe;
+namespace smazur\xpe;
 
 class Utils {
 	static function pluck_key( $array, $key ) {

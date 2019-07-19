@@ -1,6 +1,6 @@
 <?php
 
-namespace smazur/xpe;
+namespace smazur\xpe;
 
 class SyntaxRuleToken extends SyntaxRule {
 	public $content;

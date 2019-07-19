@@ -1,5 +1,5 @@
 <?php
-namespace smazur/xpe;
+namespace smazur\xpe;
 
 class ParserException extends \Exception {
 	protected $pos;

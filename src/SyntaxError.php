@@ -1,5 +1,5 @@
 <?php
-namespace smazur/xpe;
+namespace smazur\xpe;
 
 class SyntaxError extends \Exception {
 	public $line;

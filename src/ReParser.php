@@ -1,5 +1,5 @@
 <?php
-namespace smazur/xpe;
+namespace smazur\xpe;
 
 class ReParser {
 	protected $re;
