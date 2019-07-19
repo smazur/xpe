@@ -15,7 +15,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"smazur\\xpe": "src/"
+			"smazur\\xpe\\": "src/"
 		}
 	}
 }
